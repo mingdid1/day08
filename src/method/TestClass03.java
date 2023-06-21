@@ -1,6 +1,6 @@
 package method;
 
-public class TestClass03 {
+public class TestClass03 { 
 	
 	public void name() {
 		System.out.println("저는 '홍길동'입니다 ");
