@@ -2,6 +2,7 @@ package method;
 
 public class TestClass05 {
 	
+	// 매개변수를 받을때 같은 자료형으로 받아줘야한다
 	public void sumFunc(int num) {
 		
 		int sum = 0;

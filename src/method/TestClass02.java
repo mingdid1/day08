@@ -7,6 +7,7 @@ public class TestClass02 {
 		}
 	*/
 	public void test() {
+		
 		System.out.println("test 기능 실행");
 	}
 }

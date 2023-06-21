@@ -13,7 +13,7 @@ public class MainClass02 {
 	public static void main(String[] args) {
 		
 		TestClass02 t = new TestClass02();
-		
+
 		System.out.println("main 시작");
 		t.test();
 		System.out.println("main 종료");
